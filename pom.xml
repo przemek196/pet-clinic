@@ -5,7 +5,7 @@
 
     <groupId>przemek.springlearn</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>pet-clinic</name>
     <description>pet-clinic</description>
 
@@ -58,7 +58,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/przemek196/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.1</tag>
+      <tag>pet-clinic-0.0.3</tag>
   </scm>
 
 
