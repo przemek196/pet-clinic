@@ -1,11 +1,13 @@
 package przemek.springlearn.petclinic.services.map;
 
 
+import org.springframework.stereotype.Service;
 import przemek.springlearn.petclinic.model.Pet;
 import przemek.springlearn.petclinic.services.PetService;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
 
