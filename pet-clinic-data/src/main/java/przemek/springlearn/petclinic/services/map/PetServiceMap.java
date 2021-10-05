@@ -2,11 +2,11 @@ package przemek.springlearn.petclinic.services.map;
 
 
 import przemek.springlearn.petclinic.model.Pet;
-import przemek.springlearn.petclinic.services.CrudService;
+import przemek.springlearn.petclinic.services.PetService;
 
 import java.util.Set;
 
-public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
+public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
 
     @Override
